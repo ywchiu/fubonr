@@ -15,6 +15,10 @@
 
 - http://markdown.tw/
 
+### InfoLite
+
+- https://chrome.google.com/webstore/detail/infolite/ipjbadabbpedegielkhgpiekdlmfpgal
+
 ## R 語言基礎程式碼
 
 - http://rpubs.com/ywchiu/Demo20171106
