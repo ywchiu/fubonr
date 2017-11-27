@@ -32,3 +32,7 @@
 - http://rpubs.com/ywchiu/Demo20171120
 
 - http://rpubs.com/ywchiu/Demo20171124
+
+## R 文字探勘
+
+- http://rpubs.com/ywchiu/Demo20171127
