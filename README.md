@@ -36,3 +36,5 @@
 ## R 文字探勘
 
 - http://rpubs.com/ywchiu/Demo20171127
+
+- http://rpubs.com/ywchiu/Demo20171201
