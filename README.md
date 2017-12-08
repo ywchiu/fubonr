@@ -40,3 +40,7 @@
 - http://rpubs.com/ywchiu/Demo20171201
 
 - http://rpubs.com/ywchiu/Demo20171204
+
+## R 機器學習
+
+- http://rpubs.com/ywchiu/Demo20171208
