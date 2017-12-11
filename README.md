@@ -44,3 +44,5 @@
 ## R 機器學習
 
 - http://rpubs.com/ywchiu/Demo20171208
+
+- http://rpubs.com/ywchiu/Demo20171211
